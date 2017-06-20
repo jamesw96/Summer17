@@ -1,3 +1,5 @@
+"""This python script reads a json file from an url and properly parse the Json data, it then look for the key 
+"thumbnail" to find the url of a thumbnail to be download to local storage"""
 import urllib.request
 import json
 
